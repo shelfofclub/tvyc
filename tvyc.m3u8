@@ -20,8 +20,8 @@ http://39.135.34.150:8080/000000001000/1000000002000031664/1.m3u8?I
 ####EXTINF:-1 tvg-id="24" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" tvg-name="CCTV4" group-title="央视",CCTV-4 中文国际 720P
 ###http://luotuo.ycchenrong.cn/dl/mg.php?id=672924435
 
-####EXTINF:-1 tvg-id="5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-name="CCTV5" group-title="央视",CCTV-5 体育 720P
-###http://luotuo.ycchenrong.cn/dl/mg.php?id=641886683
+#EXTINF:-1 tvg-id="5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-name="CCTV5" group-title="央视",CCTV-5 体育 1080P 江西南昌移动
+http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
 
 #EXTINF:-1 tvg-id="18" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" tvg-name="CCTV5+" group-title="央视",CCTV-5+ 体育赛事 1080P
 http://39.135.34.150:8080/000000001000/1000000001000020505/1.m3u8?I
@@ -33,8 +33,8 @@ http://39.135.34.150:8080/000000001000/1000000001000016466/1.m3u8?I
 ####EXTINF:-1 tvg-id="26" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" tvg-name="CCTV6" group-title="央视",CCTV-6 电影 720P
 ###http://luotuo.ycchenrong.cn/dl/mg.php?id=624878396
 
-####EXTINF:-1 tvg-id="7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" tvg-name="CCTV7" group-title="央视",CCTV-7 国防军事 720P
-###http://luotuo.ycchenrong.cn/dl/mg.php?id=673168121
+#EXTINF:-1 tvg-id="7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" tvg-name="CCTV7" group-title="央视",CCTV-7 国防军事 1080P 江西南昌移动
+http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
 
 #EXTINF:-1 tvg-id="8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" tvg-name="CCTV8" group-title="央视",CCTV-8 电视剧 1080P
 http://39.135.34.150:8080/000000001000/1000000001000003736/1.m3u8?I
@@ -46,8 +46,8 @@ http://39.135.34.150:8080/000000001000/1000000001000014583/1.m3u8?I
 ####EXTINF:-1 tvg-id="29" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" tvg-name="CCTV9" group-title="央视",CCTV-9 记录 720P
 ###http://luotuo.ycchenrong.cn/dl/mg.php?id=673168140
 
-####EXTINF:-1 tvg-id="10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" tvg-name="CCTV10" group-title="央视",CCTV-10 科教 720P
-###http://luotuo.ycchenrong.cn/dl/mg.php?id=624878405
+#EXTINF:-1 tvg-id="10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" tvg-name="CCTV10" group-title="央视",CCTV-10 科教 1080P 江西南昌移动
+http://39.134.115.163:8080/PLTV/88888910/224/3221225627/index.m3u8
 
 #EXTINF:-1 tvg-id="11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" tvg-name="CCTV11" group-title="央视",CCTV-11 戏曲 1080P
 http://39.135.34.150:8080/000000001000/1000000002000019789/1.m3u8?I
