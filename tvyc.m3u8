@@ -1,33 +1,26 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml.gz"
 ###### 央视
-#EXTINF:-1 tvg-id="1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-name="CCTV1" group-title="央视",CCTV-1 综合 1080P
-http://39.135.34.150:8080/000000001000/1000000001000021973/1.m3u8?I
-####EXTINF:-1 tvg-id="21" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-name="CCTV1" group-title="央视",CCTV-1 综合 720P
-###http://luotuo.ycchenrong.cn/dl/mg.php?id=608807420
+#EXTINF:-1 tvg-id="1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-name="CCTV1" group-title="央视",CCTV-1 综合 1080P 江西南昌移动
+http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-name="CCTV1" group-title="央视",CCTV-1 综合 1080P 陕西移动
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 
-#EXTINF:-1 tvg-id="2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" tvg-name="CCTV2" group-title="央视",CCTV-2 财经 1080P 广西南宁移动
-http://39.135.34.150:8080/000000001000/1000000001000012442/1.m3u8?I
-####EXTINF:-1 tvg-id="22" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" tvg-name="CCTV2" group-title="央视",CCTV-2 财经 720P
-###http://luotuo.ycchenrong.cn/dl/mg.php?id=672926537
-#EXTINF:-1 tvg-id="2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" tvg-name="CCTV2" group-title="央视",CCTV-2 财经 1080P 福建福州移动
+#EXTINF:-1 tvg-id="2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" tvg-name="CCTV2" group-title="央视",CCTV-2 财经 1080P 江西南昌移动
+http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
+#EXTINF:-1  tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" tvg-name="CCTV2" group-title="央视",CCTV-2 财经 1080P 福建福州移动
 rtsp://183.252.176.54:554/PLTV/88888888/224/3221226655/40417429.smil
-#EXTINF:-1 tvg-id="2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" tvg-name="CCTV2" group-title="央视",CCTV-2 财经 1080P 陕西移动
+#EXTINF:-1  tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" tvg-name="CCTV2" group-title="央视",CCTV-2 财经 1080P 福建福州移动2
+rtsp://183.252.166.199/PLTV/88888888/224/3221226655/40417429.smil
+#EXTINF:-1  tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" tvg-name="CCTV2" group-title="央视",CCTV-2 财经 1080P 陕西移动
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
 
 #EXTINF:-1 tvg-id="3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" tvg-name="CCTV3" group-title="央视",CCTV-3 综艺 1080P
 http://39.135.34.150:8080/000000001000/1000000001000011218/1.m3u8?I
-####EXTINF:-1 tvg-id="23" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" tvg-name="CCTV3" group-title="央视",CCTV-3 综艺 720P
-###http://luotuo.ycchenrong.cn/dl/mg.php?id=609017193
 
-#EXTINF:-1 tvg-id="4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" tvg-name="CCTV4" group-title="央视",CCTV-4 中文国际 1080P
-http://39.135.34.150:8080/000000001000/1000000002000031664/1.m3u8?I
-####EXTINF:-1 tvg-id="24" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" tvg-name="CCTV4" group-title="央视",CCTV-4 中文国际 720P
-###http://luotuo.ycchenrong.cn/dl/mg.php?id=672924435
-#EXTINF:-1 tvg-id="4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" tvg-name="CCTV4" group-title="央视",CCTV-4 中文国际 1080P 陕西移动
+#EXTINF:-1 tvg-id="4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" tvg-name="CCTV4" group-title="央视",CCTV-4 中文国际 1080P 江西南昌移动
+http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" tvg-name="CCTV4" group-title="央视",CCTV-4 中文国际 1080P 陕西移动
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
-#EXTINF:-1 tvg-id="4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" tvg-name="CCTV4" group-title="央视",CCTV-4 中文国际 1080P
-#EXTINF:-1 tvg-id="4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" tvg-name="CCTV4" group-title="央视",CCTV-4 中文国际 1080P
-http://39.135.34.150:8080/000000001000/1000000002000031664/1.m3u8?I
 
 #EXTINF:-1 tvg-id="5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-name="CCTV5" group-title="央视",CCTV-5 体育 1080P 江西南昌移动
 http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
@@ -72,10 +65,12 @@ http://39.135.34.150:8080/000000001000/1000000002000019789/1.m3u8?I
 ####EXTINF:-1 tvg-id="12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" tvg-name="CCTV12" group-title="央视",CCTV-12 社会与法 720P
 ###http://luotuo.ycchenrong.cn/dl/mg.php?id=673168185
 
-#EXTINF:-1 tvg-id="13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-name="CCTV13" group-title="央视",CCTV-13 新闻 1080P
-http://39.135.34.150:8080/000000001000/1000000002000021303/1.m3u8?I
-####EXTINF:-1 tvg-id="33" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-name="CCTV13" group-title="央视",CCTV-13 新闻 720P
-###http://luotuo.ycchenrong.cn/dl/mg.php?id=672922360
+#EXTINF:-1 tvg-id="13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-name="CCTV13" group-title="央视",CCTV-13 新闻 1080P 江西南昌移动
+http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-name="CCTV13" group-title="央视",CCTV-13 新闻 1080P 福建福州移动
+rtsp://183.252.176.54:554/PLTV/88888888/224/3221226104/10000100000000060000000002298296_0.smil
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-name="CCTV13" group-title="央视",CCTV-13 新闻 1080P 福建福州移动2
+rtsp://183.252.166.199/PLTV/88888888/224/3221226104/10000100000000060000000002298296_0.smil
 
 ####EXTINF:-1 tvg-id="14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" tvg-name="CCTV14" group-title="央视",CCTV-14 少儿 720P
 ###http://luotuo.ycchenrong.cn/dl/mg.php?id=624878440
