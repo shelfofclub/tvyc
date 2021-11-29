@@ -2,16 +2,12 @@
 ###### 央视
 #EXTINF:-1 tvg-id="1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-name="CCTV1" group-title="央视",CCTV-1 综合 1080P 新乡电信
 http://219.150.217.47:6610/PLTV1/40/index.m3u8?icpid=dxrm1
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-name="CCTV1" group-title="央视",CCTV-1 综合 1080P 江西南昌移动
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-name="CCTV1" group-title="央视",CCTV-1 综合 1080P 南昌移动
 http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-name="CCTV1" group-title="央视",CCTV-1 综合 1080P 河南移动
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV-16 河南移动
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226597/index.m3u8?
 
 #EXTINF:-1 tvg-id="2 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" tvg-name="CCTV2" group-title="央视",CCTV-2 财经 1080P 新乡电信
 http://219.150.217.47:6610/PLTV1/60/index.m3u8?icpid=dxrm1
-#EXTINF:-1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" tvg-name="CCTV2" group-title="央视",CCTV-2 财经 1080P 江西南昌移动
+#EXTINF:-1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" tvg-name="CCTV2" group-title="央视",CCTV-2 财经 1080P 南昌移动
 http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
 
 #EXTINF:-1 tvg-id="3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" tvg-name="CCTV3" group-title="央视",CCTV-3 综艺 1080P
@@ -19,12 +15,12 @@ http://219.150.217.47:6610/PLTV1/80/index.m3u8?icpid=dxrm1
 
 #EXTINF:-1 tvg-id="4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" tvg-name="CCTV4" group-title="央视",CCTV-4 中文国际 1080P 新乡电信
 http://219.150.217.47:6610/PLTV1/100/index.m3u8?icpid=dxrm1
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" tvg-name="CCTV4" group-title="央视",CCTV-4 中文国际 1080P 江西南昌移动
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" tvg-name="CCTV4" group-title="央视",CCTV-4 中文国际 1080P 南昌移动
 http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
 
 #EXTINF:-1 tvg-id="5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-name="CCTV5" group-title="央视",CCTV-5 体育 1080P 新乡电信
 http://219.150.217.47:6610/PLTV1/120/index.m3u8?icpid=dxrm1
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-name="CCTV5" group-title="央视",CCTV-5 体育 1080P 江西南昌移动
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-name="CCTV5" group-title="央视",CCTV-5 体育 1080P 南昌移动
 http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
 
 #EXTINF:-1 tvg-id="18" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" tvg-name="CCTV5+" group-title="央视",CCTV-5+ 体育赛事 1080P
@@ -35,7 +31,7 @@ http://219.150.217.47:6610/PLTV1/140/index.m3u8?icpid=dxrm1
 
 #EXTINF:-1 tvg-id="7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" tvg-name="CCTV7" group-title="央视",CCTV-7 国防军事 1080P 新乡电信
 http://219.150.217.47:6610/PLTV1/160/index.m3u8?icpid=dxrm1
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" tvg-name="CCTV7" group-title="央视",CCTV-7 国防军事 1080P 江西南昌移动
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" tvg-name="CCTV7" group-title="央视",CCTV-7 国防军事 1080P 南昌移动
 http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
 
 #EXTINF:-1 tvg-id="8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" tvg-name="CCTV8" group-title="央视",CCTV-8 电视剧 1080P
@@ -46,7 +42,7 @@ http://219.150.217.47:6610/PLTV1/200/index.m3u8?icpid=dxrm1
 
 #EXTINF:-1 tvg-id="10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" tvg-name="CCTV10" group-title="央视",CCTV-10 科教 1080P 新乡电信
 http://219.150.217.47:6610/PLTV1/220/index.m3u8?icpid=dxrm1
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" tvg-name="CCTV10" group-title="央视",CCTV-10 科教 1080P 江西南昌移动
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" tvg-name="CCTV10" group-title="央视",CCTV-10 科教 1080P 南昌移动
 http://39.134.115.163:8080/PLTV/88888910/224/3221225627/index.m3u8
 
 #EXTINF:-1 tvg-id="11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" tvg-name="CCTV11" group-title="央视",CCTV-11 戏曲 1080P
@@ -57,7 +53,7 @@ http://219.150.217.47:6610/PLTV1/260/index.m3u8?icpid=dxrm1
 
 #EXTINF:-1 tvg-id="13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-name="CCTV13" group-title="央视",CCTV-13 新闻 1080P 新乡移动
 http://219.150.217.47:6610/PLTV1/280/index.m3u8?icpid=dxrm1
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-name="CCTV13" group-title="央视",CCTV-13 新闻 1080P 江西南昌移动
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-name="CCTV13" group-title="央视",CCTV-13 新闻 1080P 南昌移动
 http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
 
 #EXTINF:-1 tvg-id="14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" tvg-name="CCTV14" group-title="央视",CCTV-14 少儿 1080P
