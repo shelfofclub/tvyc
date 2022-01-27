@@ -2,38 +2,64 @@
 ###### 央视
 #EXTINF:-1 tvg-id="1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-name="CCTV1" group-title="央视",CCTV-1 综合 1080P 新乡电信
 http://219.150.217.47:6610/PLTV1/40/index.m3u8?icpid=dxrm1
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-name="CCTV1" group-title="央视",CCTV-1 综合 1080P 酷开
+http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-1hd/1.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-name="CCTV1" group-title="央视",CCTV-1 综合 1080P 凤
+http://iptv.tvfix.org/hls/cctv1hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-name="CCTV1" group-title="央视",CCTV-1 综合 1080P 南昌移动
 http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-name="CCTV1" group-title="央视",CCTV-1 综合 1080P 应急
-http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-1hd/1.m3u8
 
 #EXTINF:-1 tvg-id="2 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" tvg-name="CCTV2" group-title="央视",CCTV-2 财经 1080P 新乡电信
 http://219.150.217.47:6610/PLTV1/60/index.m3u8?icpid=dxrm1
+#EXTINF:-1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" tvg-name="CCTV2" group-title="央视",CCTV-2 财经 1080P 酷开
+http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-2hd/1.m3u8
+#EXTINF:-1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" tvg-name="CCTV2" group-title="央视",CCTV-2 财经 1080P 凤
+http://iptv.tvfix.org/hls/cctv2hd.m3u8
 #EXTINF:-1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" tvg-name="CCTV2" group-title="央视",CCTV-2 财经 1080P 南昌移动
 http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
-#EXTINF:-1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" tvg-name="CCTV2" group-title="央视",CCTV-2 财经 1080P 应急
-http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-2hd/1.m3u8
 
 #EXTINF:-1 tvg-id="3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" tvg-name="CCTV3" group-title="央视",CCTV-3 综艺 1080P
 http://219.150.217.47:6610/PLTV1/80/index.m3u8?icpid=dxrm1
+#EXTINF:-1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" tvg-name="CCTV3" group-title="央视",CCTV-3 综艺 1080P 酷开
+http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-3hd/1.m3u8
+#EXTINF:-1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" tvg-name="CCTV3" group-title="央视",CCTV-3 综艺 1080P 凤
+http://iptv.tvfix.org/hls/cctv3hd.m3u8
 
 #EXTINF:-1 tvg-id="4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" tvg-name="CCTV4" group-title="央视",CCTV-4 中文国际 1080P 新乡电信
 http://219.150.217.47:6610/PLTV1/100/index.m3u8?icpid=dxrm1
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" tvg-name="CCTV4" group-title="央视",CCTV-4 中文国际 1080P 酷开
+http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-4sd/1.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" tvg-name="CCTV4" group-title="央视",CCTV-4 中文国际 1080P 凤
+http://iptv.tvfix.org/hls/cctv4hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" tvg-name="CCTV4" group-title="央视",CCTV-4 中文国际 1080P 南昌移动
 http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" tvg-name="CCTV4" group-title="央视",CCTV-4 中文国际 1080P 应急
-http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-4hd/1.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4EUO.png" tvg-name="CCTV4EUO" group-title="央视",CCTV-4 欧洲 1080P 杭州移动
+http://117.148.179.162/PLTV/88888888/224/3221231615/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4AME.png" tvg-name="CCTV4AME" group-title="央视",CCTV-4 美洲 1080P 杭州移动
+http://117.148.179.158/PLTV/88888888/224/3221231654/index.m3u8
 
 #EXTINF:-1 tvg-id="5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-name="CCTV5" group-title="央视",CCTV-5 体育 1080P 新乡电信
 http://219.150.217.47:6610/PLTV1/120/index.m3u8?icpid=dxrm1
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-name="CCTV5" group-title="央视",CCTV-5 体育 1080P 酷开
+http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-5hd/1.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-name="CCTV5" group-title="央视",CCTV-5 体育 1080P 凤
+http://iptv.tvfix.org/hls/cctv5hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-name="CCTV5" group-title="央视",CCTV-5 体育 1080P 南昌移动
 http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
 
 #EXTINF:-1 tvg-id="18" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" tvg-name="CCTV5+" group-title="央视",CCTV-5+ 体育赛事 1080P
 http://219.150.217.47:6610/PLTV1/380/index.m3u8?icpid=dxrm1
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" tvg-name="CCTV5+" group-title="央视",CCTV-5+ 体育赛事 1080P 酷开
+http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-tysshd/1.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" tvg-name="CCTV5+" group-title="央视",CCTV-5+ 体育赛事 1080P 凤
+http://iptv.tvfix.org/hls/cctv5phd.m3u8
 
 #EXTINF:-1 tvg-id="6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" tvg-name="CCTV6" group-title="央视",CCTV-6 电影 1080P
 http://219.150.217.47:6610/PLTV1/140/index.m3u8?icpid=dxrm1
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" tvg-name="CCTV6" group-title="央视",CCTV-6 电影 1080P 酷开
+http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-6hd/1.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" tvg-name="CCTV6" group-title="央视",CCTV-6 电影 1080P 凤
+http://iptv.tvfix.org/hls/cctv6hd.m3u8
 
 #EXTINF:-1 tvg-id="7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" tvg-name="CCTV7" group-title="央视",CCTV-7 国防军事 1080P 新乡电信
 http://219.150.217.47:6610/PLTV1/160/index.m3u8?icpid=dxrm1
@@ -42,12 +68,24 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
 
 #EXTINF:-1 tvg-id="8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" tvg-name="CCTV8" group-title="央视",CCTV-8 电视剧 1080P
 http://219.150.217.47:6610/PLTV1/180/index.m3u8?icpid=dxrm1
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" tvg-name="CCTV8" group-title="央视",CCTV-8 电视剧 1080P 酷开
+http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-8hd/1.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" tvg-name="CCTV8" group-title="央视",CCTV-8 电视剧 1080P 凤
+http://iptv.tvfix.org/hls/cctv8hd.m3u8
 
 #EXTINF:-1 tvg-id="9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" tvg-name="CCTV9" group-title="央视",CCTV-9 记录 1080P
 http://219.150.217.47:6610/PLTV1/200/index.m3u8?icpid=dxrm1
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" tvg-name="CCTV9" group-title="央视",CCTV-9 记录 1080P 酷开
+http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-9hd/1.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" tvg-name="CCTV9" group-title="央视",CCTV-9 记录 1080P 凤
+http://iptv.tvfix.org/hls/cctv9hd.m3u8
 
 #EXTINF:-1 tvg-id="10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" tvg-name="CCTV10" group-title="央视",CCTV-10 科教 1080P 新乡电信
 http://219.150.217.47:6610/PLTV1/220/index.m3u8?icpid=dxrm1
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" tvg-name="CCTV10" group-title="央视",CCTV-10 科教 1080P 酷开
+http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-10hd/1.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" tvg-name="CCTV10" group-title="央视",CCTV-10 科教 1080P 凤
+http://iptv.tvfix.org/hls/cctv10hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" tvg-name="CCTV10" group-title="央视",CCTV-10 科教 1080P 南昌移动
 http://39.134.115.163:8080/PLTV/88888910/224/3221225627/index.m3u8
 
@@ -59,6 +97,10 @@ http://219.150.217.47:6610/PLTV1/260/index.m3u8?icpid=dxrm1
 
 #EXTINF:-1 tvg-id="13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-name="CCTV13" group-title="央视",CCTV-13 新闻 1080P 新乡移动
 http://219.150.217.47:6610/PLTV1/280/index.m3u8?icpid=dxrm1
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-name="CCTV13" group-title="央视",CCTV-13 新闻 1080P 酷开
+http://coocaa-ynbit-ws.ifengli.com:2386/live/cctv-newssd/1.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-name="CCTV13" group-title="央视",CCTV-13 新闻 1080P 凤
+http://iptv.tvfix.org/hls/cctv13hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-name="CCTV13" group-title="央视",CCTV-13 新闻 1080P 南昌移动
 http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
 
@@ -71,9 +113,12 @@ http://219.150.217.47:6610/PLTV1/320/index.m3u8?icpid=dxrm1
 #EXTINF:-1 tvg-id="17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" tvg-name="CCTV17" group-title="央视"",CCTV-17 农业农村 1080P
 http://219.150.217.47:6610/PLTV1/360/index.m3u8?icpid=dxrm1
 
-######
-#####EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" tvg-name="CCTV4K" group-title="央视",CCTV-4K 超高清 1080P
-#####http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229683/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" tvg-name="CCTV4K" group-title="央视",CCTV-4K 超高清
+http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" tvg-name="CCTV16" group-title="央视",CCTV奥林匹克频道
+http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
+
 
 ######
 #EXTINF:-1 group-title="央视",新华社中文 720P
@@ -84,26 +129,44 @@ http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 #####  地方卫视
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" tvg-name="北京卫视" group-title="地方卫视",北京卫视 1080P
 http://219.150.217.47:6610/PLTV1/1020/index.m3u8?icpid=dxrm1
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" tvg-name="北京卫视" group-title="地方卫视",北京卫视 酷开
+http://coocaa-ynbit-ws.ifengli.com:2381/live/bjws-hd/1.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" tvg-name="北京卫视" group-title="地方卫视",北京卫视 凤
+http://iptv.tvfix.org/hls/brtv1hd.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" tvg-name="湖南卫视" group-title="地方卫视",湖南卫视 1080P
 http://219.150.217.47:6610/PLTV1/1220/index.m3u8?icpid=dxrm1
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" tvg-name="湖南卫视" group-title="地方卫视",湖南卫视 酷开
+http://coocaa-ynbit-ws.ifengli.com:2381/live/hnws-hd/1.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" tvg-name="湖南卫视" group-title="地方卫视",湖南卫视 凤
+http://iptv.tvfix.org/hls/hunanhd.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" tvg-name="浙江卫视" group-title="地方卫视",浙江卫视 1080P
+http://219.150.217.47:6610/PLTV1/960/index.m3u8?icpid=dxrm1
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" tvg-name="浙江卫视" group-title="地方卫视",浙江卫视 酷开
+http://coocaa-ynbit-ws.ifengli.com:2381/live/zsws-hd/1.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" tvg-name="浙江卫视" group-title="地方卫视",浙江卫视 凤
+http://iptv.tvfix.org/hls/zjhd.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" tvg-name="江苏卫视" group-title="地方卫视",江苏卫视 1080P
+http://219.150.217.47:6610/PLTV1/1000/index.m3u8?icpid=dxrm1
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" tvg-name="江苏卫视" group-title="地方卫视",江苏卫视 酷开
+http://coocaa-ynbit-ws.ifengli.com:2381/live/jsws-hd/1.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" tvg-name="江苏卫视" group-title="地方卫视",江苏卫视 凤
+http://iptv.tvfix.org/hls/jshd.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" tvg-name="河南卫视" group-title="地方卫视",河南卫视 1080P
+http://219.150.217.47:6610/PLTV1/580/index.m3u8?icpid=dxrm1
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" tvg-name="河南卫视" group-title="地方卫视",河南卫视 凤
+http://iptv.tvfix.org/hls/hnhd.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="地方卫视",河南卫视都市频道 1080P
+http://219.150.217.47:6610/PLTV1/600/index.m3u8?icpid=dxrm1
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" tvg-name="湖北卫视" group-title="地方卫视",湖北卫视 1080P
 http://219.150.217.47:6610/PLTV1/1280/index.m3u8?icpid=dxrm1
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" tvg-name="东方卫视" group-title="地方卫视",东方卫视 1080P
 http://219.150.217.47:6610/PLTV1/980/index.m3u8?icpid=dxrm1
-
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" tvg-name="浙江卫视" group-title="地方卫视",浙江卫视 1080P
-http://219.150.217.47:6610/PLTV1/960/index.m3u8?icpid=dxrm1
-
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" tvg-name="江苏卫视" group-title="地方卫视",江苏卫视 1080P
-http://219.150.217.47:6610/PLTV1/1000/index.m3u8?icpid=dxrm1
-
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" tvg-name="河南卫视" group-title="地方卫视",河南卫视 1080P
-http://219.150.217.47:6610/PLTV1/580/index.m3u8?icpid=dxrm1
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="地方卫视",河南卫视都市频道 1080P
-http://219.150.217.47:6610/PLTV1/600/index.m3u8?icpid=dxrm1
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" tvg-name="安徽卫视" group-title="地方卫视",安徽卫视 1080P
 http://219.150.217.47:6610/PLTV1/1100/index.m3u8?icpid=dxrm1
