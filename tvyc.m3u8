@@ -28,6 +28,10 @@ http://iptv.tvfix.org/hls/cctv9hd.m3u8
 http://iptv.tvfix.org/hls/cctv10hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-name="CCTV13" group-title="凤",CCTV-13 新闻 凤
 http://iptv.tvfix.org/hls/cctv13hd.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" tvg-name="CCTV14" group-title="凤",CCTV-14 少儿 凤
+http://iptv.tvfix.org/hls/cctv14hd.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" tvg-name="CCTV15" group-title="凤",CCTV-15 音乐 凤
+http://iptv.tvfix.org/hls/cctv15hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" tvg-name="CCTV16" group-title="官方",CCTV奥林匹克频道
 http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" tvg-name="CCTV4K" group-title="官方",CCTV-4K 超高清
