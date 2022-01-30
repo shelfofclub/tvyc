@@ -1,24 +1,25 @@
 ####EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml.gz"
 
+###### 央视
 ##### 江苏移动
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-name="CCTV1" group-title="江苏移动",CCTV-1 综合 江苏移动1
 http://223.110.235.38/ott.js.chinamobile.com/PLTV/3/224/3221227675/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-name="CCTV1" group-title="江苏移动",CCTV-1 综合 江苏移动2
-http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228149/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-name="CCTV1" group-title="江苏移动",CCTV-1 综合 江苏移动3
-http://223.110.235.8/ott.js.chinamobile.com/PLTV/3/224/3221228049/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-name="CCTV1" group-title="江苏移动",CCTV-1 综合 江苏移动4
-http://223.110.236.5/ott.js.chinamobile.com/PLTV/3/224/3221228075/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-name="CCTV1" group-title="江苏移动",CCTV-1 综合 江苏移动5
-http://223.110.235.32/ott.js.chinamobile.com/PLTV/3/224/3221227725/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-name="CCTV1" group-title="江苏移动",CCTV-1 综合 江苏移动6
-http://223.110.236.53/ott.js.chinamobile.com/PLTV/3/224/3221228213/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-name="CCTV1" group-title="江苏移动",CCTV-1 综合 江苏移动7
-http://223.110.235.36/ott.js.chinamobile.com/PLTV/3/224/3221227467/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-name="CCTV1" group-title="江苏移动",CCTV-1 综合 江苏移动8
-http://223.110.236.9/ott.js.chinamobile.com/PLTV/3/224/3221228146/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-name="CCTV1" group-title="江苏移动",CCTV-1 综合 江苏移动9
-http://223.110.235.14/ott.js.chinamobile.com/PLTV/3/224/3221227644/index.m3u8
+#####EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-name="CCTV1" group-title="江苏移动",CCTV-1 综合 江苏移动2
+####http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228149/index.m3u8
+#####EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-name="CCTV1" group-title="江苏移动",CCTV-1 综合 江苏移动3
+####http://223.110.235.8/ott.js.chinamobile.com/PLTV/3/224/3221228049/index.m3u8
+#####EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-name="CCTV1" group-title="江苏移动",CCTV-1 综合 江苏移动4
+####http://223.110.236.5/ott.js.chinamobile.com/PLTV/3/224/3221228075/index.m3u8
+#####EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-name="CCTV1" group-title="江苏移动",CCTV-1 综合 江苏移动5
+####http://223.110.235.32/ott.js.chinamobile.com/PLTV/3/224/3221227725/index.m3u8
+#####EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-name="CCTV1" group-title="江苏移动",CCTV-1 综合 江苏移动6
+####http://223.110.236.53/ott.js.chinamobile.com/PLTV/3/224/3221228213/index.m3u8
+#####EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-name="CCTV1" group-title="江苏移动",CCTV-1 综合 江苏移动7
+####http://223.110.235.36/ott.js.chinamobile.com/PLTV/3/224/3221227467/index.m3u8
+#####EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-name="CCTV1" group-title="江苏移动",CCTV-1 综合 江苏移动8
+####http://223.110.236.9/ott.js.chinamobile.com/PLTV/3/224/3221228146/index.m3u8
+#####EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-name="CCTV1" group-title="江苏移动",CCTV-1 综合 江苏移动9
+####http://223.110.235.14/ott.js.chinamobile.com/PLTV/3/224/3221227644/index.m3u8
 #EXTINF:-1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" tvg-name="CCTV2" group-title="江苏移动",CCTV-2 财经 江苏移动
 http://223.110.236.10/ott.js.chinamobile.com/PLTV/3/224/3221227708/index.m3u8
 #EXTINF:-1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" tvg-name="CCTV3" group-title="江苏移动",CCTV-3 综艺 江苏移动
@@ -49,9 +50,22 @@ http://223.110.235.23/ott.js.chinamobile.com/PLTV/3/224/3221228224/index.m3u8
 http://223.110.235.10/ott.js.chinamobile.com/PLTV/3/224/3221227656/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" tvg-name="CCTV15" group-title="江苏移动",CCTV-15 音乐 江苏移动
 http://223.110.235.10/ott.js.chinamobile.com/PLTV/3/224/3221227723/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" tvg-name="CCTV16" group-title="官方",CCTV奥林匹克频道
+http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" tvg-name="CCTV4K" group-title="官方",CCTV-4K 超高清
+http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" tvg-name="CCTV17" group-title="江苏移动",CCTV-17 农业 江苏移动
 http://223.110.235.10/ott.js.chinamobile.com/PLTV/3/224/3221227726/index.m3u8
 
+
+######
+#EXTINF:-1 group-title="官方",新华社中文 720P
+http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
+#EXTINF:-1 group-title="官方",新华社英文 720P
+http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
+
+
+#####  地方卫视
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" tvg-name="北京卫视" group-title="江苏移动",北京卫视 江苏移动
 http://223.110.235.18/ott.js.chinamobile.com/PLTV/3/224/3221227652/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" tvg-name="湖南卫视" group-title="江苏移动",湖南卫视 江苏移动
@@ -63,7 +77,9 @@ http://223.110.243.158/ott.js.chinamobile.com/PLTV/3/224/3221227668/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" tvg-name="河南卫视" group-title="江苏移动",河南卫视 江苏移动
 http://223.110.236.9/ott.js.chinamobile.com/PLTV/3/224/3221228221/index.m3u8
 
-###### 央视
+
+##### 正式备用分界线 #####
+
 
 ###### tvfix
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-name="CCTV1" group-title="凤",CCTV-1 综合 凤
@@ -74,17 +90,13 @@ http://iptv.tvfix.org/hls/cctv2hd.m3u8
 http://iptv.tvfix.org/hls/cctv3hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" tvg-name="CCTV4" group-title="凤",CCTV-4 中文国际 凤
 http://iptv.tvfix.org/hls/cctv4hd.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4EUO.png" tvg-name="CCTV4EUO" group-title="杭州移动",CCTV-4 欧洲 杭州移动
-http://117.148.179.162/PLTV/88888888/224/3221231615/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4AME.png" tvg-name="CCTV4AME" group-title="杭州移动",CCTV-4 美洲 杭州移动
-http://117.148.179.158/PLTV/88888888/224/3221231654/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-name="CCTV5" group-title="凤",CCTV-5 体育 凤
 http://iptv.tvfix.org/hls/cctv5hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" tvg-name="CCTV5+" group-title="凤",CCTV-5+ 体育赛事 凤
 http://iptv.tvfix.org/hls/cctv5phd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" tvg-name="CCTV6" group-title="凤",CCTV-6 电影 凤
 http://iptv.tvfix.org/hls/cctv6hd.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" tvg-name="CCTV7" group-title="凤",CCTV-7 国防军事 南昌移动
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" tvg-name="CCTV7" group-title="凤",CCTV-7 国防军事 凤
 http://iptv.tvfix.org/hls/cctv7hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" tvg-name="CCTV8" group-title="凤",CCTV-8 电视剧 凤
 http://iptv.tvfix.org/hls/cctv8hd.m3u8
@@ -94,20 +106,8 @@ http://iptv.tvfix.org/hls/cctv9hd.m3u8
 http://iptv.tvfix.org/hls/cctv10hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-name="CCTV13" group-title="凤",CCTV-13 新闻 凤
 http://iptv.tvfix.org/hls/cctv13hd.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" tvg-name="CCTV16" group-title="官方",CCTV奥林匹克频道
-http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" tvg-name="CCTV4K" group-title="官方",CCTV-4K 超高清
-http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 
 
-######
-#EXTINF:-1 group-title="官方",新华社中文 720P
-http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
-#EXTINF:-1 group-title="官方",新华社英文 720P
-http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
-
-
-#####  地方卫视
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" tvg-name="北京卫视" group-title="凤",北京卫视 凤
 http://iptv.tvfix.org/hls/brtv1hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" tvg-name="湖南卫视" group-title="凤",湖南卫视 凤
@@ -120,7 +120,11 @@ http://iptv.tvfix.org/hls/jshd.m3u8
 http://iptv.tvfix.org/hls/hnhd.m3u8
 
 
-##### 正式备用分界线 #####
+##### 杭州移动
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4EUO.png" tvg-name="CCTV4EUO" group-title="杭州移动",CCTV-4 欧洲 杭州移动
+http://117.148.179.162/PLTV/88888888/224/3221231615/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4AME.png" tvg-name="CCTV4AME" group-title="杭州移动",CCTV-4 美洲 杭州移动
+http://117.148.179.158/PLTV/88888888/224/3221231654/index.m3u8
 
 
 ##### 新乡电信
