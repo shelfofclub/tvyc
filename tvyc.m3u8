@@ -1,5 +1,3 @@
-####EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml.gz"
-
 ###### 央视
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-name="CCTV1" group-title="江苏移动",CCTV-1 综合 江苏移动
 http://223.110.235.6/ott.js.chinamobile.com/PLTV/3/224/3221227675/index.m3u8
@@ -56,7 +54,7 @@ http://223.110.235.12/ott.js.chinamobile.com/PLTV/3/224/3221227735/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" tvg-name="浙江卫视" group-title="江苏移动",浙江卫视 江苏移动
 http://223.110.235.12/ott.js.chinamobile.com/PLTV/3/224/3221227744/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" tvg-name="江苏卫视" group-title="江苏移动",江苏卫视 江苏移动
-http://223.110.243.158/ott.js.chinamobile.com/PLTV/3/224/3221227668/index.m3u8
+http://223.110.235.12/ott.js.chinamobile.com/PLTV/3/224/3221227668/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" tvg-name="河南卫视" group-title="江苏移动",河南卫视 江苏移动
 http://223.110.236.9/ott.js.chinamobile.com/PLTV/3/224/3221228221/index.m3u8
 
