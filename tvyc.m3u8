@@ -9,10 +9,6 @@ http://117.148.179.183/PLTV/88888888/224/3221231682/index.m3u8
 #####http://117.148.179.140/PLTV/88888888/224/3221231528/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" tvg-name="CCTV4" group-title="杭州移动",CCTV-4 中文国际 杭州移动
 http://117.148.179.182/PLTV/88888888/224/3221231726/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4EUO.png" tvg-name="CCTV4EUO" group-title="杭州移动",CCTV-4 欧洲 杭州移动
-http://117.148.179.162/PLTV/88888888/224/3221231615/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4AME.png" tvg-name="CCTV4AME" group-title="杭州移动",CCTV-4 美洲 杭州移动
-http://117.148.179.158/PLTV/88888888/224/3221231654/index.m3u8
 #####http://117.148.179.160/PLTV/88888888/224/3221231654/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-name="CCTV5" group-title="杭州移动",CCTV-5 体育 杭州移动
 http://117.148.179.165/PLTV/88888888/224/3221231702/index.m3u8
@@ -64,8 +60,9 @@ http://117.148.179.135/PLTV/88888888/224/3221230206/index.m3u8
 #####http://117.148.179.172/PLTV/88888888/224/3221231729/index.m3u8
 #####http://117.148.179.148/PLTV/88888888/224/3221230824/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" tvg-name="浙江卫视" group-title="杭州移动",浙江卫视 杭州移动
-http://117.148.179.136/PLTV/88888888/224/3221231567/index.m3u8
-#####http://117.148.179.162/PLTV/88888888/224/3221229352/index.m3u8
+http://117.148.179.162/PLTV/88888888/224/3221229352/index.m3u8
+#####http://117.148.179.136/PLTV/88888888/224/3221231567/index.m3u8
+#####/PLTV/88888888/224/3221231567/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" tvg-name="江苏卫视" group-title="杭州移动",江苏卫视 杭州移动
 http://117.148.179.175/PLTV/88888888/224/3221231447/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" tvg-name="河南卫视" group-title="河南工程",河南卫视 河南工程
@@ -120,6 +117,10 @@ http://v.mp.haue.edu.cn/hls/jshd.m3u8
 
 
 ##### 杭州移动
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4EUO.png" tvg-name="CCTV4EUO" group-title="杭州移动",CCTV-4 欧洲 杭州移动
+http://117.148.179.162/PLTV/88888888/224/3221231615/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4AME.png" tvg-name="CCTV4AME" group-title="杭州移动",CCTV-4 美洲 杭州移动
+http://117.148.179.158/PLTV/88888888/224/3221231654/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-name="CCTV13" group-title="杭州移动",CCTV-13 新闻 杭州移动
 http://117.148.179.139/PLTV/88888888/224/3221231636/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" tvg-name="河南卫视" group-title="杭州移动",河南卫视 杭州移动
