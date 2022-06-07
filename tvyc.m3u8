@@ -5,10 +5,15 @@ http://117.148.179.155/PLTV/88888888/224/3221231468/index.m3u8
 http://117.148.179.147/PLTV/88888888/224/3221231678/index.m3u8
 #####http://117.148.179.156/PLTV/88888888/224/3221232362/index.m3u8
 #EXTINF:-1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" tvg-name="CCTV3" group-title="杭州移动",CCTV-3 综艺 杭州移动
-http://117.148.179.183/PLTV/88888888/224/3221231682/index.m3u8
+http://117.148.179.155/PLTV/88888888/224/3221231682/index.m3u8
 #####http://117.148.179.140/PLTV/88888888/224/3221231528/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" tvg-name="CCTV4" group-title="杭州移动",CCTV-4 中文国际 杭州移动
-http://117.148.179.182/PLTV/88888888/224/3221231726/index.m3u8
+#####http://117.148.179.182/PLTV/88888888/224/3221231726/index.m3u8
+http://117.148.179.157/PLTV/88888888/224/3221231726/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4EUO.png" tvg-name="CCTV4EUO" group-title="杭州移动",CCTV-4 欧洲 杭州移动
+http://117.148.179.162/PLTV/88888888/224/3221231615/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4AME.png" tvg-name="CCTV4AME" group-title="杭州移动",CCTV-4 美洲 杭州移动
+http://117.148.179.158/PLTV/88888888/224/3221231654/index.m3u8
 #####http://117.148.179.160/PLTV/88888888/224/3221231654/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-name="CCTV5" group-title="杭州移动",CCTV-5 体育 杭州移动
 http://117.148.179.165/PLTV/88888888/224/3221231702/index.m3u8
@@ -17,7 +22,7 @@ http://117.148.179.165/PLTV/88888888/224/3221231702/index.m3u8
 http://117.148.179.136/PLTV/88888888/224/3221231459/index.m3u8
 #####http://117.148.179.139/PLTV/88888888/224/3221231535/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" tvg-name="CCTV6" group-title="杭州移动",CCTV-6 电影 杭州移动
-http://117.148.179.153/PLTV/88888888/224/3221231724/index.m3u8
+http://117.148.179.147/PLTV/88888888/224/3221231724/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" tvg-name="CCTV7" group-title="杭州移动",CCTV-7 国防军事 杭州移动
 http://117.148.179.160/PLTV/88888888/224/3221231633/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" tvg-name="CCTV8" group-title="杭州移动",CCTV-8 电视剧 杭州移动
@@ -31,10 +36,8 @@ http://117.148.179.164/PLTV/88888888/224/3221232492/index.m3u8
 http://117.148.179.164/PLTV/88888888/224/3221231711/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" tvg-name="CCTV12" group-title="杭州移动",CCTV-12 法治 杭州移动
 http://117.148.179.150/PLTV/88888888/224/3221231660/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-name="CCTV13" group-title="凤",CCTV-13 新闻 凤
-http://iptv.tvfix.org/hls/cctv13hd.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-name="CCTV13" group-title="河北冀云",CCTV-13 新闻 河北冀云
-https://jwcdnqx.hebyun.com.cn/live/CCTVtest13/1500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-name="CCTV13" group-title="黑龙江移动",CCTV-13 新闻 黑龙江移动
+http://39.134.65.177/PLTV/88888888/224/3221225812/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" tvg-name="CCTV14" group-title="杭州移动",CCTV-14 少儿 杭州移动
 http://117.148.179.182/PLTV/88888888/224/3221231648/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" tvg-name="CCTV15" group-title="杭州移动",CCTV-15 音乐 杭州移动
@@ -74,98 +77,12 @@ http://iptv.tvfix.org/hls/hnhd.m3u8
 ##### 正式备用分界线 #####
 
 
-##### 河南工程
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-name="CCTV1" group-title="河南工程",CCTV-1 综合 河南工程
-http://v.mp.haue.edu.cn/hls/cctv1hd.m3u8
-#EXTINF:-1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" tvg-name="CCTV2" group-title="河南工程",CCTV-2 财经 河南工程
-http://v.mp.haue.edu.cn/hls/cctv2hd.m3u8
-#EXTINF:-1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" tvg-name="CCTV3" group-title="河南工程",CCTV-3 综艺 河南工程
-http://v.mp.haue.edu.cn/hls/cctv3hd.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" tvg-name="CCTV4" group-title="河南工程",CCTV-4 中文国际 河南工程
-http://v.mp.haue.edu.cn/hls/cctv4hd.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-name="CCTV5" group-title="河南工程",CCTV-5 体育 河南工程
-http://v.mp.haue.edu.cn/hls/cctv5hd.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" tvg-name="CCTV5+" group-title="河南工程",CCTV-5+ 体育赛事 河南工程
-http://v.mp.haue.edu.cn/hls/cctv5phd.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" tvg-name="CCTV6" group-title="河南工程",CCTV-6 电影 河南工程
-http://v.mp.haue.edu.cn/hls/cctv6hd.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" tvg-name="CCTV7" group-title="河南工程",CCTV-7 国防军事 河南工程
-http://v.mp.haue.edu.cn/hls/cctv7hd.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" tvg-name="CCTV8" group-title="河南工程",CCTV-8 电视剧 河南工程
-http://v.mp.haue.edu.cn/hls/cctv8hd.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" tvg-name="CCTV9" group-title="河南工程",CCTV-9 记录 河南工程
-http://v.mp.haue.edu.cn/hls/cctv9hd.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" tvg-name="CCTV10" group-title="河南工程",CCTV-10 科教 河南工程
-http://v.mp.haue.edu.cn/hls/cctv10hd.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" tvg-name="CCTV11" group-title="河南工程",CCTV-11 戏曲 河南工程
-http://v.mp.haue.edu.cn/hls/cctv11.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" tvg-name="CCTV12" group-title="河南工程",CCTV-12 法治 河南工程
-http://v.mp.haue.edu.cn/hls/cctv12hd.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-name="CCTV13" group-title="河南工程",CCTV-13 新闻 河南工程
-http://v.mp.haue.edu.cn/hls/cctv13hd.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" tvg-name="CCTV14" group-title="河南工程",CCTV-14 少儿 河南工程
-http://v.mp.haue.edu.cn/hls/cctv14hd.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" tvg-name="CCTV15" group-title="河南工程",CCTV-15 音乐 河南工程
-http://v.mp.haue.edu.cn/hls/cctv15.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" tvg-name="CCTV17" group-title="河南工程",CCTV-17 农业 河南工程
-http://v.mp.haue.edu.cn/hls/cctv17hd.m3u8
-
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" tvg-name="北京卫视" group-title="河南工程",北京卫视 河南工程
-http://v.mp.haue.edu.cn/hls/btv1hd.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" tvg-name="湖南卫视" group-title="河南工程",湖南卫视 河南工程
-http://v.mp.haue.edu.cn/hls/hunanhd.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" tvg-name="浙江卫视" group-title="河南工程",浙江卫视 河南工程
-http://v.mp.haue.edu.cn/hls/zjhd.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" tvg-name="江苏卫视" group-title="河南工程",江苏卫视 河南工程
-http://v.mp.haue.edu.cn/hls/jshd.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" tvg-name="河南卫视" group-title="河南工程",河南卫视 河南工程
-http://v.mp.haue.edu.cn/hls/hnhd.m3u8
-
 
 ##### 杭州移动
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4EUO.png" tvg-name="CCTV4EUO" group-title="杭州移动",CCTV-4 欧洲 杭州移动
-http://117.148.179.162/PLTV/88888888/224/3221231615/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4AME.png" tvg-name="CCTV4AME" group-title="杭州移动",CCTV-4 美洲 杭州移动
-http://117.148.179.158/PLTV/88888888/224/3221231654/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-name="CCTV13" group-title="杭州移动",CCTV-13 新闻 杭州移动
 http://117.148.179.139/PLTV/88888888/224/3221231636/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" tvg-name="河南卫视" group-title="杭州移动",河南卫视 杭州移动
 http://117.148.179.144/PLTV/88888888/224/3221231514/index.m3u8
-
-
-###### tvfix
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-name="CCTV1" group-title="凤",CCTV-1 综合 凤
-http://iptv.tvfix.org/hls/cctv1hd.m3u8
-#EXTINF:-1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" tvg-name="CCTV2" group-title="凤",CCTV-2 财经 凤
-http://iptv.tvfix.org/hls/cctv2hd.m3u8
-#EXTINF:-1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" tvg-name="CCTV3" group-title="凤",CCTV-3 综艺 凤
-http://iptv.tvfix.org/hls/cctv3hd.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" tvg-name="CCTV4" group-title="凤",CCTV-4 中文国际 凤
-http://iptv.tvfix.org/hls/cctv4hd.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-name="CCTV5" group-title="凤",CCTV-5 体育 凤
-http://iptv.tvfix.org/hls/cctv5hd.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" tvg-name="CCTV5+" group-title="凤",CCTV-5+ 体育赛事 凤
-http://iptv.tvfix.org/hls/cctv5phd.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" tvg-name="CCTV6" group-title="凤",CCTV-6 电影 凤
-http://iptv.tvfix.org/hls/cctv6hd.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" tvg-name="CCTV7" group-title="凤",CCTV-7 国防军事 凤
-http://iptv.tvfix.org/hls/cctv7hd.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" tvg-name="CCTV8" group-title="凤",CCTV-8 电视剧 凤
-http://iptv.tvfix.org/hls/cctv8hd.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" tvg-name="CCTV9" group-title="凤",CCTV-9 记录 凤
-http://iptv.tvfix.org/hls/cctv9hd.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" tvg-name="CCTV10" group-title="凤",CCTV-10 科教 凤
-http://iptv.tvfix.org/hls/cctv10hd.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" tvg-name="北京卫视" group-title="凤",北京卫视 凤
-http://iptv.tvfix.org/hls/brtv1hd.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" tvg-name="湖南卫视" group-title="凤",湖南卫视 凤
-http://iptv.tvfix.org/hls/hunanhd.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" tvg-name="浙江卫视" group-title="凤",浙江卫视 凤
-http://iptv.tvfix.org/hls/zjhd.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" tvg-name="江苏卫视" group-title="凤",江苏卫视 凤
-http://iptv.tvfix.org/hls/jshd.m3u8
 
 
 ##### 南昌移动
