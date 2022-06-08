@@ -22,12 +22,12 @@ http://117.148.179.165/PLTV/88888888/224/3221231702/index.m3u8
 http://117.148.179.136/PLTV/88888888/224/3221231459/index.m3u8
 #####http://117.148.179.139/PLTV/88888888/224/3221231535/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" tvg-name="CCTV6" group-title="杭州移动",CCTV-6 电影 杭州移动
-http://117.148.179.147/PLTV/88888888/224/3221231724/index.m3u8
+http://117.148.179.158/PLTV/88888888/224/3221231724/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" tvg-name="CCTV7" group-title="杭州移动",CCTV-7 国防军事 杭州移动
-http://117.148.179.160/PLTV/88888888/224/3221231633/index.m3u8
+http://117.148.179.167/PLTV/88888888/224/3221231633/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" tvg-name="CCTV8" group-title="杭州移动",CCTV-8 电视剧 杭州移动
 http://117.148.179.162/PLTV/88888888/224/3221231694/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" tvg-name="CCTV9" group-title="杭州移动",CCTV-9 记录 杭州移动
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" tvg-name="CCTV9" group-title="杭州移动",CCTV-9 纪录 杭州移动
 http://117.148.179.162/PLTV/88888888/224/3221231697/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" tvg-name="CCTV10" group-title="杭州移动",CCTV-10 科教 杭州移动
 http://117.148.179.164/PLTV/88888888/224/3221232492/index.m3u8
@@ -59,13 +59,13 @@ http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 
 #####  地方卫视
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" tvg-name="北京卫视" group-title="杭州移动",北京卫视 杭州移动
-http://117.148.179.168/PLTV/88888888/224/3221231732/index.m3u8
+http://117.148.179.136/PLTV/88888888/224/3221231732/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" tvg-name="湖南卫视" group-title="杭州移动",湖南卫视 杭州移动
 http://117.148.179.135/PLTV/88888888/224/3221230206/index.m3u8
 #####http://117.148.179.172/PLTV/88888888/224/3221231729/index.m3u8
 #####http://117.148.179.148/PLTV/88888888/224/3221230824/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" tvg-name="浙江卫视" group-title="杭州移动",浙江卫视 杭州移动
-http://117.148.179.162/PLTV/88888888/224/3221229352/index.m3u8
+http://117.148.179.135/PLTV/88888888/224/3221229352/index.m3u8
 #####http://117.148.179.136/PLTV/88888888/224/3221231567/index.m3u8
 #####/PLTV/88888888/224/3221231567/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" tvg-name="江苏卫视" group-title="杭州移动",江苏卫视 杭州移动
