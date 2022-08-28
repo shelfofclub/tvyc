@@ -85,7 +85,7 @@ http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/ind
 
 
 ##### 杭州移动
-##### 来源https://codeberg.org/zgxwchao/tv/src/branch/main/live.txt
+##### 来源https://codeberg.org/zgxwchao/tv/src/branch/main/live.txt, https://www.right.com.cn/FORUM/thread-5794889-1-1.html
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-name="CCTV13" group-title="杭州移动",CCTV-13 新闻 杭州移动
 http://117.148.179.139/PLTV/88888888/224/3221231636/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" tvg-name="河南卫视" group-title="杭州移动",河南卫视 杭州移动
