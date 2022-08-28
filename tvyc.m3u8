@@ -36,8 +36,9 @@ http://117.148.129.9/PLTV/88888888/224/3221232492/index.m3u8
 http://117.148.129.9/PLTV/88888888/224/3221231711/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" tvg-name="CCTV12" group-title="杭州移动",CCTV-12 法治 杭州移动
 http://117.148.129.9/PLTV/88888888/224/3221231660/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-name="CCTV13" group-title="黑龙江移动",CCTV-13 新闻 黑龙江移动
-http://39.134.65.177/PLTV/88888888/224/3221225812/1.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-name="CCTV13" group-title="西安移动",CCTV-13 新闻 西安移动
+#####来源https://github.com/CHFLK99/IPTV/blob/main/22.m3u
+http://111.20.33.70/PLTV/88888893/224/3221226233/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" tvg-name="CCTV14" group-title="杭州移动",CCTV-14 少儿 杭州移动
 http://117.148.129.9/PLTV/88888888/224/3221231648/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" tvg-name="CCTV15" group-title="杭州移动",CCTV-15 音乐 杭州移动
@@ -71,8 +72,12 @@ http://117.148.129.6/PLTV/88888888/224/3221229352/index.m3u8
 #####/PLTV/88888888/224/3221231567/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" tvg-name="江苏卫视" group-title="杭州移动",江苏卫视 杭州移动
 http://117.148.129.13/PLTV/88888888/224/3221231447/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" tvg-name="河南卫视" group-title="凤",河南卫视 凤
-http://iptv.tvfix.org/hls/hnhd.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" tvg-name="东方卫视" group-title="杭州移动",东方卫视 杭州移动
+http://117.148.129.13/PLTV/88888888/224/3221231738/index.m3u8
+#####http://183.207.255.197/live/program/live/hddfws/4000000/mnf.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" tvg-name="河南卫视" group-title="哈尔滨移动",河南卫视 哈尔滨移动
+http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
+#####来源https://github.com/CHFLK99/IPTV/blob/main/22.m3u
 
 
 ##### 正式备用分界线 #####
@@ -80,6 +85,7 @@ http://iptv.tvfix.org/hls/hnhd.m3u8
 
 
 ##### 杭州移动
+##### 来源https://codeberg.org/zgxwchao/tv/src/branch/main/live.txt
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-name="CCTV13" group-title="杭州移动",CCTV-13 新闻 杭州移动
 http://117.148.179.139/PLTV/88888888/224/3221231636/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" tvg-name="河南卫视" group-title="杭州移动",河南卫视 杭州移动
