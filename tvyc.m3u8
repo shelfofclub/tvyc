@@ -1,6 +1,6 @@
 ###### 央视
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-name="CCTV1" group-title="杭州移动",CCTV-1 综合 杭州移动
-http://117.148.129.11/PLTV/88888888/224/3221231468/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-name="CCTV1" group-title="梅州",CCTV-1 综合 梅州
+http://fyld.eatuo.com:9901/tsfile/live/1018_1.m3u8
 #EXTINF:-1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" tvg-name="CCTV2" group-title="杭州移动",CCTV-2 财经 杭州移动
 http://117.148.129.11/PLTV/88888888/224/3221231678/index.m3u8
 #####http://117.148.179.156/PLTV/88888888/224/3221232362/index.m3u8
