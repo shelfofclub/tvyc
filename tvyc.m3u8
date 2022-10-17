@@ -1,6 +1,6 @@
 ###### 央视
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-name="CCTV1" group-title="百视通",CCTV-1 综合 百视通
-http://183.207.255.197/live/program/live/cctv1hd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-name="CCTV1" group-title="新西安移动",CCTV-1 综合 新西安移动
+http://111.20.33.70/PLTV/88888893/224/3221226010/index.m3u8
 #EXTINF:-1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" tvg-name="CCTV2" group-title="新西安移动",CCTV-2 财经 新西安移动
 http://111.20.33.70/PLTV/88888893/224/3221226195/index.m3u8
 #EXTINF:-1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" tvg-name="CCTV3" group-title="新西安移动",CCTV-3 综艺 新西安移动
@@ -61,9 +61,9 @@ http://111.20.33.70/PLTV/88888893/224/3221226211/index.m3u8
 http://111.20.33.70/PLTV/88888893/224/3221226199/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" tvg-name="江苏卫视" group-title="新西安移动",江苏卫视 新西安移动
 http://111.20.33.70/PLTV/88888893/224/3221226200/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" tvg-name="东方卫视" group-title="百视通",东方卫视 百视通
-#####http://111.20.33.70/PLTV/88888893/224/3221226217/index.m3u8
-http://183.207.255.197/live/program/live/hddfws/4000000/mnf.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" tvg-name="东方卫视" group-title="新西安移动",东方卫视 新西安移动
+http://111.20.33.70/PLTV/88888893/224/3221226217/index.m3u8
+#####http://183.207.255.197/live/program/live/hddfws/4000000/mnf.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" tvg-name="河南卫视" group-title="未知",河南卫视 未知
 https://php.52sf.ga/@Curly_MouseIPTV-BF.php?id=339
 #####来源https://github.com/CHFLK99/IPTV/blob/main/22.m3u
