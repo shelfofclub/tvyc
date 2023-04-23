@@ -5,8 +5,8 @@ http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000036/m
 http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000050/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" tvg-name="CCTV3" group-title="湖南IPV6",CCTV-3 综艺 湖南IPV6
 http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000051/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" tvg-name="CCTV4" group-title="湖南IPV6",CCTV-4 中文国际 湖南IPV6
-http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000052/main.m3u8?IASHttpSessionId=OTT
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" tvg-name="CCTV4" group-title="百视通",CCTV-4 中文国际 百视通
+http://223.111.117.11/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8
 #####EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4EUO.png" tvg-name="CCTV4EUO" group-title="杭州移动",CCTV-4 欧洲 杭州移动
 ####http://117.148.129.11/PLTV/88888888/224/3221231615/index.m3u8
 #####EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4AME.png" tvg-name="CCTV4AME" group-title="杭州移动",CCTV-4 美洲 杭州移动
