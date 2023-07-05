@@ -1,48 +1,48 @@
 ###### 央视
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-name="CCTV1" group-title="重庆",CCTV-1 综合 重庆
-https://live.goodiptv.club/api/cqyx.php?id=cctv1HD
+http://39.100.88.129:52152/cqyx.php?id=cctv1HD
 #EXTINF:-1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" tvg-name="CCTV2" group-title="重庆",CCTV-2 财经 重庆
-https://live.goodiptv.club/api/cqyx.php?id=cctv2HD
+http://39.100.88.129:52152/cqyx.php?id=cctv2HD
 #EXTINF:-1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" tvg-name="CCTV3" group-title="重庆",CCTV-3 综艺 重庆
-https://live.goodiptv.club/api/cqyx.php?id=cctv3HD
+http://39.100.88.129:52152/cqyx.php?id=cctv3HD
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" tvg-name="CCTV4" group-title="重庆",CCTV-4 中文国际 重庆
-https://live.goodiptv.club/api/cqyx.php?id=cctv4HD
+http://39.100.88.129:52152/cqyx.php?id=cctv4HD
 #####EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4EUO.png" tvg-name="CCTV4EUO" group-title="杭州移动",CCTV-4 欧洲 杭州移动
 ####http://117.148.129.11/PLTV/88888888/224/3221231615/index.m3u8
 #####EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4AME.png" tvg-name="CCTV4AME" group-title="杭州移动",CCTV-4 美洲 杭州移动
 ####http://117.148.129.11/PLTV/88888888/224/3221231654/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-name="CCTV5" group-title="重庆",CCTV-5 体育 重庆
-https://live.goodiptv.club/api/cqyx.php?id=cctv5HD
+http://39.100.88.129:52152/cqyx.php?id=cctv5HD
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" tvg-name="CCTV5+" group-title="重庆",CCTV-5+ 体育赛事 重庆
-https://live.goodiptv.club/api/cqyx.php?id=cctv5SportHD
+http://39.100.88.129:52152/cqyx.php?id=cctv5SportHD
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" tvg-name="CCTV6" group-title="重庆",CCTV-6 电影 重庆
-https://live.goodiptv.club/api/cqyx.php?id=cctv6HD
+http://39.100.88.129:52152/cqyx.php?id=cctv6HD
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" tvg-name="CCTV7" group-title="重庆",CCTV-7 国防军事 重庆
-https://live.goodiptv.club/api/cqyx.php?id=cctv7HD
+http://39.100.88.129:52152/cqyx.php?id=cctv7HD
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" tvg-name="CCTV8" group-title="重庆",CCTV-8 电视剧 重庆
-https://live.goodiptv.club/api/cqyx.php?id=cctv8HD
+http://39.100.88.129:52152/cqyx.php?id=cctv8HD
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" tvg-name="CCTV9" group-title="重庆",CCTV-9 纪录 重庆
-https://live.goodiptv.club/api/cqyx.php?id=cctv9HD
+http://39.100.88.129:52152/cqyx.php?id=cctv9HD
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" tvg-name="CCTV10" group-title="重庆",CCTV-10 科教 重庆
-https://live.goodiptv.club/api/cqyx.php?id=cctv10HD
+http://39.100.88.129:52152/cqyx.php?id=cctv10HD
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" tvg-name="CCTV11" group-title="重庆",CCTV-11 戏曲 重庆
-https://live.goodiptv.club/api/cqyx.php?id=cctv11HD
+http://39.100.88.129:52152/cqyx.php?id=cctv11HD
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" tvg-name="CCTV12" group-title="重庆",CCTV-12 法治 重庆
-https://live.goodiptv.club/api/cqyx.php?id=cctv12HD
+http://39.100.88.129:52152/cqyx.php?id=cctv12HD
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-name="CCTV13" group-title="重庆",CCTV-13 新闻 重庆
 #####来源https://github.com/CHFLK99/IPTV/blob/main/22.m3u
 #####http://111.20.33.70/PLTV/88888893/224/3221226233/index.m3u8
-https://live.goodiptv.club/api/cqyx.php?id=cctvNewsHD
+http://39.100.88.129:52152/cqyx.php?id=cctvNewsHD
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" tvg-name="CCTV14" group-title="重庆",CCTV-14 少儿 重庆
-https://live.goodiptv.club/api/cqyx.php?id=cctvseHD
+http://39.100.88.129:52152/cqyx.php?id=cctvseHD
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" tvg-name="CCTV15" group-title="重庆",CCTV-15 音乐 重庆
-https://live.goodiptv.club/api/cqyx.php?id=cctv15HD
+http://39.100.88.129:52152/cqyx.php?id=cctv15HD
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" tvg-name="CCTV17" group-title="重庆",CCTV-17 农业 重庆
-https://live.goodiptv.club/api/cqyx.php?id=cctv17HD
+http://39.100.88.129:52152/cqyx.php?id=cctv17HD
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" tvg-name="CCTV16" group-title="重庆",CCTV奥林匹克频道 重庆
-https://live.goodiptv.club/api/cqyx.php?id=cctv16HD
+http://39.100.88.129:52152/cqyx.php?id=cctv16HD
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" tvg-name="CCTV4K" group-title="重庆",CCTV-4K 超高清 重庆
-https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
+http://39.100.88.129:52152/cqyx.php?id=CCTV4K
 
 
 ######
@@ -54,18 +54,18 @@ http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 
 #####  地方卫视
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" tvg-name="北京卫视" group-title="重庆",北京卫视 重庆
-https://live.goodiptv.club/api/cqyx.php?id=beijingHD
+http://39.100.88.129:52152/cqyx.php?id=beijingHD
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" tvg-name="湖南卫视" group-title="重庆",湖南卫视 重庆
-https://live.goodiptv.club/api/cqyx.php?id=hunanHD
+http://39.100.88.129:52152/cqyx.php?id=hunanHD
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" tvg-name="浙江卫视" group-title="重庆",浙江卫视 重庆
-https://live.goodiptv.club/api/cqyx.php?id=zhejiangHD
+http://39.100.88.129:52152/cqyx.php?id=zhejiangHD
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" tvg-name="江苏卫视" group-title="重庆",江苏卫视 重庆
-https://live.goodiptv.club/api/cqyx.php?id=jiangsuHD
+http://39.100.88.129:52152/cqyx.php?id=jiangsuHD
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" tvg-name="东方卫视" group-title="重庆",东方卫视 重庆
-https://live.goodiptv.club/api/cqyx.php?id=shanghaiHD
+http://39.100.88.129:52152/cqyx.php?id=shanghaiHD
 #####http://183.207.255.197/live/program/live/hddfws/4000000/mnf.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" tvg-name="河南卫视" group-title="重庆",河南卫视 重庆
-https://live.goodiptv.club/api/cqyx.php?id=henanHD
+http://39.100.88.129:52152/cqyx.php?id=henanHD
 #####来源https://github.com/CHFLK99/IPTV/blob/main/22.m3u
 
 
